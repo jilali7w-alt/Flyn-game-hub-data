@@ -1,9 +1,9 @@
 {
   "news": [
     {
-      "title": "FlynHub Preview Channel Launched!",
-      "image": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/news-update.png",
-      "link": "https://yourwebsite.com/news/preview-release"
+      "title": "Flyn Game Hub Preview Channel Launched!!!",
+      "image": "https://flyn.odoo.com/web/image/614-4282b88e/Flyn%20Arcade%20Hub%20New.webp",
+      "link": "https://flyn.odoo.com/flyn-notes"
     }
   ],
   "spotlight": [
@@ -12,14 +12,14 @@
       "iconPath": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/chess-icon.png",
       "version": "1.0.0",
       "publisher": "Flyn Game Studio",
-      "link": "https://yourwebsite.com/games/chess"
+      "link": "https://flyn.odoo.com/download-center"
     },
     {
       "title": "Breakout by Flyn",
       "iconPath": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/breakout-icon.png",
       "version": "1.0.2",
       "publisher": "Flyn Game Studio",
-      "link": "https://yourwebsite.com/games/breakout"
+      "link": "https://flyn.odoo.com/download-center"
     }
   ]
 }
