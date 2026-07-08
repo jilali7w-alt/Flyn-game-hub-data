@@ -9,14 +9,14 @@
   "spotlight": [
     {
       "title": "Chess by Flyn",
-      "iconPath": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/chess-icon.png",
+      "iconPath": "https://raw.githubusercontent.com/jilali7w-alt/FlynArcade-Data/refs/heads/main/Chess%20by%20Flyn.png",
       "version": "1.0.0",
       "publisher": "Flyn Game Studio",
       "link": "https://flyn.odoo.com/download-center"
     },
     {
       "title": "Breakout by Flyn",
-      "iconPath": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/breakout-icon.png",
+      "iconPath": "https://raw.githubusercontent.com/jilali7w-alt/FlynArcade-Data/refs/heads/main/breakout%20by%20flyn.png",
       "version": "1.0.2",
       "publisher": "Flyn Game Studio",
       "link": "https://flyn.odoo.com/download-center"
